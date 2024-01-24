@@ -137,9 +137,9 @@ header h2 {
 	min-width: 315px;
 	z-index: 2; }
 
-/* .explanation {
+.explanation {
 	background: transparent url(zengarden.gif) no-repeat top right;
-	padding-top: 185px; } */
+	padding-top: 185px; }
 	
 .explanation h3 {	
 	position: relative;
@@ -290,6 +290,15 @@ footer a:hover, a:active {
         position: absolute;
         width: 300px;
         height: 200px;
-        top: 20px;
+        top: 250px;
         right: 0px;
+    }
+
+    .okno{
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 430px;
+        right: 0px;
+
     }
