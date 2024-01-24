@@ -302,3 +302,19 @@ footer a:hover, a:active {
         right: 0px;
 
     }
+
+    .meme1{
+        position: absolute;
+        width: 300px;
+        height: 400px;
+        top: 730px;
+        right: 0px;
+    }
+
+    .meme2{
+        position: absolute;
+        width: 300px;
+        height: 400px;
+        top: 730px;
+        left: 0px;
+    }
