@@ -285,3 +285,11 @@ footer a:hover, a:active {
 .sidebar li a:hover, a:active { 
 	background-color: #909528;
 	color: #fff; }
+
+    .klobasa{
+        position: absolute;
+        width: 300px;
+        height: 200px;
+        top: 20px;
+        right: 0px;
+    }
