@@ -107,14 +107,13 @@ header h2 {
 	
 .preamble h3 {
 	background: transparent url(enlightment.gif) no-repeat top left;
-	width: 291px;
+	width: 23px;
 	height: 37px;
 	margin-bottom: 10px;
 	padding: 0;
 
 	text-indent: 100%;
 	white-space: nowrap;
-	overflow: hidden;
 }
 
 .preamble p {
@@ -126,7 +125,7 @@ header h2 {
 	
 .preamble p:nth-child(4) {
 	padding-bottom: 300px;
-	background: transparent url(leftback.gif) 17px 110px no-repeat; }
+	background: transparent url(leftback.png) 17px 110px no-repeat; }
 	
 .supporting {
 	border-left: 2px solid white;
@@ -164,7 +163,7 @@ header h2 {
 .participation h3 {
 	position: relative;
 	top: 15px;
-	width: 177px;
+	width: 23px;
 	height: 28px;
 /* 	background: transparent url(heading_2.gif) no-repeat top left; */
 	margin-top: 0;
@@ -172,13 +171,12 @@ header h2 {
 
 	text-indent: 100%;
 	white-space: nowrap;
-	overflow: hidden;
 }
 	
 .benefits h3 {
 	position: relative;
 	top: 15px;
-	width: 120px;
+	width: 23px;
 	height: 24px;
 /* 	background: transparent url(heading_3.gif) no-repeat top left; */
 	margin-top: 0;
@@ -186,13 +184,12 @@ header h2 {
 
 	text-indent: 100%;
 	white-space: nowrap;
-	overflow: hidden;
 }
 
 .requirements h3 {
 	position: relative;
 	top: 15px;
-	width: 193px;
+	width: 23px;
 	height: 28px;
 /* 	background: transparent url(heading_4.gif) no-repeat top left; */
 	margin-top: 0;
@@ -200,7 +197,6 @@ header h2 {
 
 	text-indent: 100%;
 	white-space: nowrap;
-	overflow: hidden;
 }
 
 footer { 
